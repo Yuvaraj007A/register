@@ -1,0 +1,11 @@
+{
+  "description": "Water Level Monitor Project",
+  "repo": "https://github.com/Yuvaraj007A/water-level-monitor",
+  "owner": {
+    "username": "Yuvaraj007A",
+    "email": "yuvarajarumugam275@gmail.com"
+  },
+  "record": {
+    "CNAME": "water-level-monitor-sandy.vercel.app"
+  }
+}
